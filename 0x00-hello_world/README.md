@@ -1,1 +1,1 @@
-read me file of hello world
+description of 0x00-hello_world
