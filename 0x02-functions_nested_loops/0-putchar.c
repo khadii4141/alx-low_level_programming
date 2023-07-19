@@ -1,8 +1,8 @@
 #include "main.h"
 	/**
-	 * main - entry point of my putchar code
+	 * main - entry point
 	 *
-	 * Return: Always 0
+	 * Return: Always 0 (success)
 	 */
 
 
