@@ -1,13 +1,11 @@
 #include "main.h"
+/**
+ * main - enrty point
+ *
+ * Return: 0
+ */
 
-	/**
-	 * Main- print _putchar
-	 *
-	 * Return:always 0
-	 */
-
-
-	int main(void)
+int main(void)
 
 	{
 	_putchar('_');
